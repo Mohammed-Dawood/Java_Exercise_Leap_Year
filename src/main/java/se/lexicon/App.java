@@ -1,5 +1,4 @@
 package se.lexicon;
-
 import java.util.Scanner;
 
 public class App {
